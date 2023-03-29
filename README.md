@@ -16,6 +16,8 @@ WITHDOG APP
 
 # 利用方法
 
+ペットと訪問した施設の投稿をすることで、ペットと一緒に出かけられる施設の検索ができる。
+訪問前にわざわざ確認をする手間が省けるようになる。
 
 ## 施設投稿
 ***
@@ -38,8 +40,11 @@ WITHDOG APP
 https://docs.google.com/spreadsheets/d/10PFrRnp04mH88aEGPX7EOfGXt4UnRgXGPs9GJYYW9xs/edit#gid=982722306
 
 # 実装した機能についての画像やGIFおよびその説明
+index画像
+[![Image from Gyazo](https://i.gyazo.com/d1da75fb942582534266d5dde2817813.png)](https://gyazo.com/d1da75fb942582534266d5dde2817813)
 
-作成中
+投稿GIF
+[![Image from Gyazo](https://i.gyazo.com/5caf548d7ecaa445db79277e706dbeca.gif)](https://gyazo.com/5caf548d7ecaa445db79277e706dbeca)
 
 # 実装予定の機能
 1.施設情報の投稿機能
