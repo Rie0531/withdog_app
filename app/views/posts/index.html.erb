@@ -1,8 +1,10 @@
-<div class="wrapper">
-  <div class="side-bar" >
-    <%= render "side_bar" %>
-  </div>
-  <div class="post">
-    <%= render "main_post" %>
-  </div>
+<div class="contents row">
+  <% @posts.each do |post| %>
+    <div class="content_post" style="background-image: url(<%= post.image %>);">
+      <p><%= post.text %></p>
+      <span class="name">
+        <%= post.name %>
+      </span>
+    </div>
+  <% end %>
 </div>
